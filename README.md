@@ -1,4 +1,4 @@
-# [tele.strike](https://telegram.me/TeleStRiKe)
+# [tele.strike](https://telegram.me/TMhacKstRiKE)
 
 # [SUDO.TELESTRIKE](https://telegram.me/SuDoTMstRiKe)
 
@@ -57,7 +57,7 @@ Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following 
 ```
 
 ***
-# [چنل ما](https://telegram.me/TeleStRiKe)
+# [چنل ما](https://telegram.me/TMhacKstRiKE)
 
 # [سازنده تل استریک](https://telegram.me/SuDoTMstRiKe)
 سوالی بود در خدمتم
