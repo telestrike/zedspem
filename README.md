@@ -31,7 +31,7 @@ cd $HOME && git clone clone https://github.com/telestrike/zedspem && cd zedspem 
 
 ```
 killall screen
-cd zedspem && screen ./telestrike.sh
+cd zedspem && screen ./matador.sh
 ```
 
 * * *
