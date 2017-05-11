@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/telestrike
+cd $HOME/MaTaDoR
 
 install() {
 	    cd tg
