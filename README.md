@@ -1,4 +1,4 @@
-<a href="telegram.me/Xx_Fuankdeh_xX"><h1>tele strike</h1></a>
+<a href="telegram.me/TeleStRiKe"><h1>tele strike</h1></a>
 
 # [SUDO.TELESTRIKE](https://telegram.me/SuDoTMstRiKe)
 
@@ -59,9 +59,9 @@ Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following 
 ***
 </pre>
 <h1>چنل ما</h1>
-<a href="telegram.me/Xx_Fuankdeh_xX"><h1>tele strike</h1></a>
+<a href="telegram.me/TeleStRiKe"><h1>tele strike</h1></a>
 <h1>SUDO</h1>
-<a href="telegram.me/TANHAIE_A_F_Z_L_MAJAZEE"><h3>SAM Tele StRiKe</h3></a>
+<a href="telegram.me/SuDoTMstRiKe"><h3>SAM Tele StRiKe</h3></a>
 
 سوالی بود در خدمتم
 موفق باشید
