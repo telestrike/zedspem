@@ -57,7 +57,6 @@ Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following 
 ```
 
 ***
-```
 </pre>
 <h1>چنل ما</h1>
 <a href="telegram.me/Xx_Fuankdeh_xX"><h1>tele strike</h1></a>
