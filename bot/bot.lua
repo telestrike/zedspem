@@ -102,17 +102,16 @@ function create_config( )
     "Tools",
     "Write"
 	},
-    sudo_users = {377450049},
+    sudo_users = {277313212},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[» MaTaDoR v5.2
+    info_text = [[» telestrike v5.2
 		
 		»Sudo BoT :
-		» @MahDiRoO
+		» @@SuDoTMstRiKe
 		
         
-		v5 https://github.com/MaTaDoRrOo/MaTaDoR
 GoOd luck ;))
 ]],
   }
