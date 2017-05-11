@@ -13,16 +13,16 @@
 cd $HOME
 git clone https://github.com/telestrike/zedspem
 cd zedspem
-chmod +x telestrike.sh
+chmod +x matador.sh
 chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh
-./telestrike.sh install
-./telestrike.sh 
+./matador.sh install
+./matador.sh 
 # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone clone https://github.com/telestrike/zedspem && cd zedspem && chmod +x telestrike.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./telestrike.sh install && ./telestrike.sh
+cd $HOME && git clone clone https://github.com/telestrike/zedspem && cd zedspem && chmod +x matador.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./V.sh install && ./matador.sh
 ```
 
 * * *
